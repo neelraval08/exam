@@ -7,7 +7,7 @@ This repository contains solutions to several basic C programming tasks, includi
    <img src="img/Q1.png">
 
 2. **✅Sum of Elements in an Array**  
-   Calculates the sum of elements in an array using a function.
+   Calculates the sum of elements in an array using a function.<br/>
    <img src="img/Q2.png">
 
 3. **✅Reverse Array and Sum**  
